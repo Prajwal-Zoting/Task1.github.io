@@ -1,0 +1,36 @@
+/* Your styles go here */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.metrics-container {
+    margin-top: 20px;
+}
+
+.metric-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.metric {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.charts-container {
+    margin-top: 20px;
+}
+
+canvas {
+    margin-bottom: 20px;
+}
